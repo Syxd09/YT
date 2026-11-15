@@ -1,0 +1,165 @@
+{
+ "duration": 47.407,
+ "cues": [
+  {
+   "t": 0.1,
+   "type": "sparkle",
+   "dur": 0.9,
+   "gain": 0.45
+  },
+  {
+   "t": 2.14,
+   "type": "pop",
+   "gain": 0.7
+  },
+  {
+   "t": 2.49,
+   "type": "plop",
+   "gain": 0.85
+  },
+  {
+   "t": 2.52,
+   "type": "boing",
+   "gain": 0.65
+  },
+  {
+   "t": 3.104,
+   "type": "whoosh"
+  },
+  {
+   "t": 5.42,
+   "type": "whoosh"
+  },
+  {
+   "t": 5.57,
+   "type": "bubbles",
+   "dur": 2.2,
+   "gain": 0.65
+  },
+  {
+   "t": 8.07,
+   "type": "whoosh"
+  },
+  {
+   "t": 9.19,
+   "type": "tock",
+   "gain": 0.4
+  },
+  {
+   "t": 10.8,
+   "type": "pop",
+   "gain": 0.55
+  },
+  {
+   "t": 12.064,
+   "type": "whoosh"
+  },
+  {
+   "t": 15.9,
+   "type": "pop",
+   "gain": 0.5
+  },
+  {
+   "t": 17.614,
+   "type": "whoosh"
+  },
+  {
+   "t": 20.524,
+   "type": "whoosh"
+  },
+  {
+   "t": 23.4,
+   "type": "inhale",
+   "dur": 0.8,
+   "gain": 0.75
+  },
+  {
+   "t": 24.284,
+   "type": "tock",
+   "gain": 0.35
+  },
+  {
+   "t": 27.53,
+   "type": "sparkle",
+   "dur": 1.5,
+   "gain": 0.75
+  },
+  {
+   "t": 27.83,
+   "type": "pop",
+   "gain": 0.6
+  },
+  {
+   "t": 28.963,
+   "type": "whoosh"
+  },
+  {
+   "t": 29.063,
+   "type": "bubbles",
+   "dur": 2.3,
+   "gain": 0.55
+  },
+  {
+   "t": 31.797,
+   "type": "plop",
+   "gain": 0.5
+  },
+  {
+   "t": 32.397,
+   "type": "plop",
+   "gain": 0.5
+  },
+  {
+   "t": 32.997,
+   "type": "sparkle",
+   "dur": 1,
+   "gain": 0.5
+  },
+  {
+   "t": 35.3,
+   "type": "ding",
+   "gain": 0.7
+  },
+  {
+   "t": 35.42,
+   "type": "sparkle",
+   "dur": 1.4,
+   "gain": 0.7
+  },
+  {
+   "t": 36.984,
+   "type": "whoosh"
+  },
+  {
+   "t": 37.234,
+   "type": "pop",
+   "gain": 0.6
+  },
+  {
+   "t": 37.384,
+   "type": "chirp",
+   "dur": 1.3,
+   "gain": 0.6
+  },
+  {
+   "t": 40.239,
+   "type": "whoosh"
+  },
+  {
+   "t": 41.36,
+   "type": "ding",
+   "gain": 0.55
+  },
+  {
+   "t": 43.6,
+   "type": "pop",
+   "gain": 0.7
+  },
+  {
+   "t": 44.6,
+   "type": "sparkle",
+   "dur": 1.6,
+   "gain": 0.75
+  }
+ ]
+}

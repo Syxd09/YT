@@ -1,0 +1,79 @@
+{
+  "title": "The Rabbit and the Turtle",
+  "voice": "bm_fable",
+  "speed": 1.0,
+  "lead": 0.3,
+  "outro": 1.2,
+  "gap": 0.24,
+  "music": "bed",
+  "sources": [
+    "Aesop's Fables (Perry Index 226), 'The Tortoise and the Hare' — traditional fable"
+  ],
+  "lines": [
+    {
+      "text": "Gather round, kids, and let me tell you",
+      "caps": "Gather | round, | kids, | and let | me | tell you"
+    },
+    {
+      "text": "about the fastest rabbit in the whole forest.",
+      "caps": "about the | fastest | rabbit | in the | whole | forest."
+    },
+    {
+      "text": "He loved bragging to the little turtle,",
+      "caps": "He loved | bragging | to the | little | turtle,"
+    },
+    {
+      "text": "until one sunny morning, the turtle challenged him to a race.",
+      "caps": "until | one | sunny | morning, | the turtle | challenged | him | to a race."
+    },
+    {
+      "text": "All the forest neighbors lined up to watch,",
+      "caps": "All the | forest | neighbors | lined up | to watch,"
+    },
+    {
+      "text": "and at three, two, one, they were off!",
+      "caps": "and at | three, | two, | one, | they were | off!"
+    },
+    {
+      "text": "The rabbit zoomed miles ahead in seconds,",
+      "caps": "The rabbit | zoomed | miles | ahead | in seconds,"
+    },
+    {
+      "text": "then looked back and saw nobody behind him.",
+      "caps": "then looked back | and saw | nobody | behind | him."
+    },
+    {
+      "text": "With plenty of time to spare, he sat under a shady tree",
+      "caps": "With | plenty | of time | to spare, | he sat | under | a shady | tree"
+    },
+    {
+      "text": "and closed his eyes for just a quick nap.",
+      "caps": "and closed | his eyes | for just | a quick | nap."
+    },
+    {
+      "text": "Meanwhile, the little turtle just kept walking,",
+      "caps": "Meanwhile, | the little | turtle | just kept | walking,"
+    },
+    {
+      "text": "step after steady step, right past the sleeping rabbit.",
+      "caps": "step after | steady | step, | right | past | the sleeping | rabbit."
+    },
+    {
+      "text": "By the time the rabbit woke up in shock,",
+      "caps": "By the | time | the rabbit | woke | up | in shock,"
+    },
+    {
+      "text": "the turtle was already crossing the finish line!",
+      "caps": "the turtle | was | already | crossing | the finish | line!"
+    },
+    {
+      "text": "So remember, kids, slow and steady",
+      "caps": "So | remember, | kids, | slow | and steady"
+    },
+    {
+      "text": "beats fast and careless every single time.",
+      "caps": "beats fast | and careless | every | single | time.",
+      "gap": 0.3
+    }
+  ]
+}

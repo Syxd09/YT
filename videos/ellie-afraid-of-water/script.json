@@ -1,0 +1,100 @@
+{
+  "title": "The Little Elephant Who Was Afraid of Water",
+  "voice": "am_puck",
+  "speed": 0.90,
+  "lead": 0.3,
+  "outro": 1.8,
+  "gap": 0.26,
+  "music": "bed",
+  "sources": [
+    "Original children's story created for KIDOLU"
+  ],
+  "lines": [
+    {
+      "text": "One tiny splash was all it took",
+      "caps": "One *tiny ~splash | was all | it *took"
+    },
+    {
+      "text": "to send Ellie running!",
+      "caps": "to send | *Ellie | !running!",
+      "gap": 0.22
+    },
+    {
+      "text": "Ellie was the tiniest elephant in the jungle,",
+      "caps": "*Ellie was | the *tiniest | *elephant | in the *jungle,"
+    },
+    {
+      "text": "and she hated getting wet.",
+      "caps": "and she | !hated | getting ~wet.",
+      "gap": 0.22
+    },
+    {
+      "text": "While her friends splashed happily in the river,",
+      "caps": "While her *friends | ~splashed | *happily | in the ~river,"
+    },
+    {
+      "text": "Ellie watched alone from the dry grass.",
+      "caps": "*Ellie | watched *alone | from the | *dry *grass.",
+      "gap": 0.24
+    },
+    {
+      "text": "Suddenly, a little yellow bird",
+      "caps": "!Suddenly, | a *little | *yellow *bird"
+    },
+    {
+      "text": "slipped off a branch and fell into the water!",
+      "caps": "!slipped off | a *branch | and !fell | into the ~water!",
+      "gap": 0.2
+    },
+    {
+      "text": "He chirped and fluttered in panic,",
+      "caps": "He !chirped | and *fluttered | in !panic,"
+    },
+    {
+      "text": "too small to swim back alone.",
+      "caps": "too *small | to ~swim | back *alone.",
+      "gap": 0.24
+    },
+    {
+      "text": "Ellie's heart pounded fast.",
+      "caps": "Ellie's !heart | *pounded | !fast.",
+      "gap": 0.2
+    },
+    {
+      "text": "The river looked cold and scary,",
+      "caps": "The ~river | looked ~cold | and !scary,"
+    },
+    {
+      "text": "but her new friend needed help.",
+      "caps": "but her *new | *friend | needed !help.",
+      "gap": 0.24
+    },
+    {
+      "text": "Taking one deep breath, she stepped in",
+      "caps": "Taking one | *deep *breath, | she *stepped ~in"
+    },
+    {
+      "text": "and waded carefully toward him.",
+      "caps": "and ~waded | *carefully | toward *him.",
+      "gap": 0.24
+    },
+    {
+      "text": "With one gentle scoop of her trunk, she lifted him safely,",
+      "caps": "With one | *gentle *scoop | of her *trunk, | she *lifted | him *safely,"
+    },
+    {
+      "text": "and all her jungle friends cheered!",
+      "caps": "and *all | her *jungle | *friends | !cheered!",
+      "gap": 0.26
+    },
+    {
+      "text": "Ellie smiled, knowing that being brave means trying,",
+      "caps": "*Ellie *smiled, | knowing | *being *brave | means *trying,"
+    },
+    {
+      "text": "even when you're scared! Subscribe to Kidolu!",
+      "caps": "even when | you're !scared! | !Subscribe to | *KIDOLU!",
+      "gap": 0.25
+    }
+  ]
+}

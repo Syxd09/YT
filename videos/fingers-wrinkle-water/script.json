@@ -1,0 +1,72 @@
+{
+  "title": "Why Do Your Fingers Wrinkle in Water?",
+  "voice": "am_michael",
+  "speed": 1.0,
+  "lead": 0.25,
+  "outro": 1.4,
+  "gap": 0.22,
+  "music": "bed",
+  "sources": [
+    "Wilder-Smith EP, Water immersion wrinkling — physiology and sympathetic vasoconstriction (PMC / Clinical Autonomic Research)",
+    "Changizi M et al. (2011), Are wet-induced wrinkled fingers primate rain treads?, Brain Behavior and Evolution",
+    "Kareklas K, Nettle D, Smulders TV (2013), Biology Letters vs Haseleu J et al. (2014), PLOS ONE (wet-grip investigation & debate)"
+  ],
+  "lines": [
+    {
+      "text": "Your fingers aren't just soaking up water.",
+      "caps": "Your *fingers aren't just | *soaking up water."
+    },
+    {
+      "text": "Your nervous system is actively changing them.",
+      "caps": "Your *nervous system | is actively *changing them.",
+      "gap": 0.28
+    },
+    {
+      "text": "After staying submerged for several minutes,",
+      "caps": "After staying *submerged | for several *minutes,"
+    },
+    {
+      "text": "your nervous system sends tiny electrical signals",
+      "caps": "your *nervous system | sends tiny electrical *signals"
+    },
+    {
+      "text": "down beneath the skin of your fingertips.",
+      "caps": "down beneath the *skin | of your *fingertips.",
+      "gap": 0.26
+    },
+    {
+      "text": "Those signals actively narrow tiny blood vessels below.",
+      "caps": "Those signals actively *narrow | tiny *blood vessels below."
+    },
+    {
+      "text": "As blood volume drops inside the fingertip,",
+      "caps": "As blood *volume drops | inside the *fingertip,"
+    },
+    {
+      "text": "the outer skin pulls inward, forming wrinkles.",
+      "caps": "the outer *skin pulls | inward, forming *wrinkles.",
+      "gap": 0.28
+    },
+    {
+      "text": "Scientists tested whether these ridges channel water away,",
+      "caps": "Scientists tested whether *ridges | channel *water away,"
+    },
+    {
+      "text": "helping your fingers grip wet objects underwater—",
+      "caps": "helping your fingers *grip | *wet objects underwater—"
+    },
+    {
+      "text": "though researchers still debate how consistently that helps.",
+      "caps": "though researchers still *debate | how *consistently that helps.",
+      "gap": 0.28
+    },
+    {
+      "text": "Either way, your body may adapt its grip",
+      "caps": "Either way, your *body | may adapt its *grip"
+    },
+    {
+      "text": "much more cleverly than you think.",
+      "caps": "much more *cleverly | than you *think."
+    }
+  ]
+}

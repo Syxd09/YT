@@ -1,0 +1,85 @@
+{
+ "duration": 41.893,
+ "voice": "am_michael",
+ "speed": 1.0,
+ "lines": [
+  {
+   "i": 0,
+   "text": "Your fingers aren't just soaking up water.",
+   "start": 0.25,
+   "end": 2.519
+  },
+  {
+   "i": 1,
+   "text": "Your nervous system is actively changing them.",
+   "start": 2.739,
+   "end": 5.577
+  },
+  {
+   "i": 2,
+   "text": "After staying submerged for several minutes,",
+   "start": 5.857,
+   "end": 8.317
+  },
+  {
+   "i": 3,
+   "text": "your nervous system sends tiny electrical signals",
+   "start": 8.807,
+   "end": 12.055
+  },
+  {
+   "i": 4,
+   "text": "down beneath the skin of your fingertips.",
+   "start": 12.055,
+   "end": 14.489
+  },
+  {
+   "i": 5,
+   "text": "Those signals actively narrow tiny blood vessels below.",
+   "start": 14.749,
+   "end": 18.202
+  },
+  {
+   "i": 6,
+   "text": "As blood volume drops inside the fingertip,",
+   "start": 18.422,
+   "end": 20.862
+  },
+  {
+   "i": 7,
+   "text": "the outer skin pulls inward, forming wrinkles.",
+   "start": 21.362,
+   "end": 24.359
+  },
+  {
+   "i": 8,
+   "text": "Scientists tested whether these ridges channel water away,",
+   "start": 24.639,
+   "end": 28.059
+  },
+  {
+   "i": 9,
+   "text": "helping your fingers grip wet objects underwater\u2014",
+   "start": 28.639,
+   "end": 31.429
+  },
+  {
+   "i": 10,
+   "text": "though researchers still debate how consistently that helps.",
+   "start": 32.069,
+   "end": 35.565
+  },
+  {
+   "i": 11,
+   "text": "Either way, your body may adapt its grip",
+   "start": 35.845,
+   "end": 38.195
+  },
+  {
+   "i": 12,
+   "text": "much more cleverly than you think.",
+   "start": 38.565,
+   "end": 40.273
+  }
+ ]
+}

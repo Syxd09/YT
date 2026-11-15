@@ -1,0 +1,97 @@
+{
+  "title": "The Little Cloud Who Couldn't Rain",
+  "voice": "af_heart",
+  "speed": 1.05,
+  "lead": 0.3,
+  "outro": 1.8,
+  "gap": 0.24,
+  "music": "bed",
+  "sources": [
+    "Original children's story created for KIDOLU"
+  ],
+  "lines": [
+    {
+      "text": "Have you ever seen a cloud",
+      "caps": "Have you | *ever *seen | a ~cloud"
+    },
+    {
+      "text": "that couldn't make rain?",
+      "caps": "that !couldn't | make ~rain?",
+      "gap": 0.65
+    },
+    {
+      "text": "Puffy was the smallest cloud in the sky.",
+      "caps": "*Puffy was | the !smallest | ~cloud | in the *sky."
+    },
+    {
+      "text": "While big clouds poured happy silver showers,",
+      "caps": "While *big clouds | poured ~happy | ~silver ~showers,"
+    },
+    {
+      "text": "no matter how hard Puffy tried,",
+      "caps": "no matter how | !hard *Puffy | *tried,"
+    },
+    {
+      "text": "it couldn't make a single raindrop!",
+      "caps": "it !couldn't make | a *single | ~raindrop!",
+      "gap": 0.45
+    },
+    {
+      "text": "Down below, the lush garden felt warm and dry.",
+      "caps": "Down below, | the lush *garden | felt !warm | and *dry."
+    },
+    {
+      "text": "One day, Puffy spotted a tiny sunflower",
+      "caps": "One day, | *Puffy spotted | a *tiny *sunflower"
+    },
+    {
+      "text": "whose yellow petals drooped over cracked dry soil.",
+      "caps": "whose *yellow petals | !drooped over | !cracked *dry soil."
+    },
+    {
+      "text": "She desperately needed cool water.",
+      "caps": "She !desperately | needed | ~cool ~water.",
+      "gap": 0.45
+    },
+    {
+      "text": "Puffy took a deep breath",
+      "caps": "*Puffy took | a ~deep | *breath"
+    },
+    {
+      "text": "and squeezed tightly to try one more time.",
+      "caps": "and !squeezed tightly | to *try | one *more *time.",
+      "gap": 0.35
+    },
+    {
+      "text": "And suddenly... something magical happened!",
+      "caps": "And *suddenly... | something !magical | *happened!",
+      "gap": 0.3
+    },
+    {
+      "text": "Tiny glowing drops became a gentle shower!",
+      "caps": "*Tiny glowing | ~drops became | a ~gentle ~shower!"
+    },
+    {
+      "text": "Crystal raindrops danced onto the thirsty leaves.",
+      "caps": "~Crystal ~raindrops | danced onto | the *thirsty leaves."
+    },
+    {
+      "text": "The little sunflower bloomed tall and bright again!",
+      "caps": "The *little *sunflower | !bloomed *tall | and *bright again!"
+    },
+    {
+      "text": "Puffy cheered, finally discovering its special power.",
+      "caps": "*Puffy !cheered, | finally | discovering | its *special *power.",
+      "gap": 0.35
+    },
+    {
+      "text": "Remember, even the smallest among us",
+      "caps": "Remember, | even the *smallest | among *us"
+    },
+    {
+      "text": "can make a BIG difference! Subscribe to Kidolu!",
+      "caps": "can make a | !BIG *difference! | !Subscribe to | *KIDOLU!",
+      "gap": 0.28
+    }
+  ]
+}
